@@ -26,7 +26,7 @@
  
 #if defined(ALLIANT) || defined(SunOS) || defined(ULTRIX) || defined(ALPHA) \
                      || defined(IRIX) || defined(HPUX) || defined(AIX) \
-                     || defined(Linux64RHEL7)
+                     || defined(Linux64RHEL7) || defined(Linux)
 #define UNIX	/* s.b. */
  
 #ifdef SunOS /* s.b. */
