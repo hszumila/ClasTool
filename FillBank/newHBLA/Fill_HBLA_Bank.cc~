@@ -1,0 +1,51 @@
+//////////////////////////////////////////////////////////////
+//
+//   File Fill_SCPB_Bank.cc
+//
+//   This procedure Fills TSCPBClass class from BOS Bank 
+//
+//  Author :  Gagik Gavalian   UNH  11/10/1999
+//
+//
+//  This file was automaticaly Generated on : 
+//	Tue Nov 23 18:21:50 EST 1999 
+//////////////////////////////////////////////////////////////
+
+
+#include "TROOT.h"
+#include "THBLAClass.h"
+
+#include "clasbanks.h"
+
+
+// Function Prototype 
+void  Fill_HBLA_Bank(THBLAClass *gcHBLA,HBLA *pHBLA , int nrow, int sector);
+
+
+void  Fill_HBLA_Bank(THBLAClass *gcHBLA, HBLA *pHBLA , int nrow, int sector){
+//cout<<" row number = "<<nrow<<endl<<endl;
+gcHBLA->trk_pln  = pHBLA->getTrkpln(nrow);
+gcHBLA->x  = pHBLA->getX(nrow);
+gcHBLA->y  = pHBLA->getY(nrow);
+//cout<<" Time = "<<pHBLA->get_time(nrow)<<" ID = "<<pHBLA->get_id(nrow)<<" ID 1 ="<<gcHBLA->ID<<endl;
+gcHBLA->z  = pHBLA->getZ(nrow);
+gcHBLA->tlen  = pHBLA->getTlen(nrow);
+
+gcHBLA->dc1  = pHBLA->getDc1(nrow);
+gcHBLA->stat  = pHBLA->getStat(nrow);
+gcHBLA->wire  = pHBLA->getWire(nrow);
+gcHBLA->dtime  = pHBLA->getDtime(nrow);
+gcHBLA->alpha  = pHBLA->getAlpha(nrow);
+gcHBLA->wlen  = pHBLA->getWlen(nrow);
+gcHBLA->sgdoca    = pHBLA->getSgdoca(nrow);
+gcHBLA->fitdoca    = pHBLA->getFitdoca(nrow);
+gcHBLA->sector = sector;
+
+}
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////
+//     End Of File  Fill_SCPB_Bank.cc
+//////////////////////////////////////////////////////////////////////////////////////
+

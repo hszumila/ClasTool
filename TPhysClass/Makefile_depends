@@ -1,0 +1,35 @@
+### Automatically generated dependencies. Update with 'make dep'
+# DO NOT DELETE
+
+obj/Linux64RHEL7/TPhysClass.o: TPhysClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/TClasTool/TClasTool.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/THEADERClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TEVNTClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TVirtualData.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TECPBClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TSCPBClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TDCPBClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TCCPBClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TLCPBClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/THEADClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TEPICClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TEPICValue.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TSCRCClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TGSIMClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TGSIMClass_const.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TVERTClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TMVRTClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TTBERClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/THLSClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TS1STClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TTRGSClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/VirtualReader/TVirtualReader.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TTGBIClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/DSTReader/TDSTReader.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TICPBClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TSTPBClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TTGPBClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TTAGRClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/ClasBanks/TMCHDClass.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/DSTReader/TStoreClone.h
+obj/Linux64RHEL7/TPhysClass.o: /home/igorko/newCLasTool/ClasTool/TClasTool/TClasTool_Const.h

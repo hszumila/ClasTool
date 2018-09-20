@@ -1,0 +1,18 @@
+### Automatically generated dependencies. Update with 'make dep'
+# DO NOT DELETE
+
+obj/Linux/TCLASCorrectionsG10D.o: TCLASCorrectionsG10D.h
+obj/Linux/TCLASCorrectionsG10D.o: TCLASCorrectionBase.h
+obj/Linux/TCLASCorrectionsG10D.o: include/g10_tagger_corrections.h
+obj/Linux/TFuncIntercept.o: TFuncIntercept.h
+obj/Linux/TEnergyLoss.o: TEnergyLoss.h TFuncIntercept.h TFuncLoss.h
+obj/Linux/TCLASCorrections.o: TCLASCorrections.h
+obj/Linux/TFuncLoss.o: TFuncLoss.h
+obj/Linux/TCLASCorrectionsG11A.o: TCLASCorrectionsG11A.h
+obj/Linux/TCLASCorrectionsG11A.o: TCLASCorrectionBase.h
+obj/Linux/TCLASCorrectionsG11A.o: include/g11a_correction_data.h
+obj/Linux/TCLASCorrectionsG11A.o: include/g11a_correction_bins.h
+obj/Linux/TCLASCorrectionsG11A.o: include/g11_taggercorrection.h
+obj/Linux/TCLASCorrectionsGSIM.o: TCLASCorrectionsGSIM.h
+obj/Linux/TCLASCorrectionsGSIM.o: TCLASCorrectionBase.h
+obj/Linux/TCLASCorrectionBase.o: TCLASCorrectionBase.h

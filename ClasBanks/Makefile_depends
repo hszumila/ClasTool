@@ -1,0 +1,34 @@
+### Automatically generated dependencies. Update with 'make dep'
+# DO NOT DELETE
+
+obj/Linux/TEPICValue.o: TEPICValue.h
+obj/Linux/TVERTClass.o: TVERTClass.h
+obj/Linux/TS1STClass.o: TS1STClass.h
+obj/Linux/TMiniDSTClass.o: TMiniDSTClass.h TVirtualData.h
+obj/Linux/TLCPBClass.o: TLCPBClass.h
+obj/Linux/TICHBClass.o: TICHBClass.h
+obj/Linux/TTBERClass.o: TTBERClass.h
+obj/Linux/TMiniHEADClass.o: TMiniHEADClass.h
+obj/Linux/TTRGSClass.o: TTRGSClass.h
+obj/Linux/TGSIMClass.o: TGSIMClass.h TEVNTClass.h TVirtualData.h
+obj/Linux/TGSIMClass.o: TGSIMClass_const.h
+obj/Linux/TMVRTClass.o: TMVRTClass.h
+obj/Linux/TCCPBClass.o: TCCPBClass.h
+obj/Linux/TEVNTClass.o: TEVNTClass.h TVirtualData.h
+obj/Linux/TEPICClass.o: TEPICValue.h TEPICClass.h
+obj/Linux/TDC0Class.o: TDC0Class.h
+obj/Linux/TTAGRClass.o: TTAGRClass.h
+obj/Linux/TMCHDClass.o: TMCHDClass.h
+obj/Linux/TSTPBClass.o: TSTPBClass.h
+obj/Linux/THLSClass.o: THLSClass.h
+obj/Linux/TVirtualData.o: TVirtualData.h
+obj/Linux/TDCPBClass.o: TDCPBClass.h
+obj/Linux/TSCRCClass.o: TSCRCClass.h
+obj/Linux/TSCPBClass.o: TSCPBClass.h
+obj/Linux/TICPBClass.o: TICPBClass.h
+obj/Linux/TTGPBClass.o: TTGPBClass.h
+obj/Linux/TECPBClass.o: TECPBClass.h
+obj/Linux/THBLAClass.o: THBLAClass.h
+obj/Linux/THEADERClass.o: THEADERClass.h
+obj/Linux/THEADClass.o: THEADClass.h
+obj/Linux/TTGBIClass.o: TTGBIClass.h
